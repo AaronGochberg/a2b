@@ -5,7 +5,7 @@
     "max_version_min" : "8.1", "max_version_max" : "none",
     "name" : "a2b",
     "package_extra" : {
-        "reverse_domain" : "com.cycling74",
+        "reverse_domain" : "com.aarongochberg",
         "copyright" : "Copyright (c) 2024 Aaron Gochberg"
     },
     "tags" : [ ],
