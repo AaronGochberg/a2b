@@ -8,4 +8,5 @@ a2b is a single abstraction with a corresponding Max help file.
 
 ### Installation
 
-Download the a2b folder and copy it into your Max/MSP Packages folder.
+Download the a2b folder and copy it into your Max/MSP Packages folder. 
+The default directory is /.../Documents/Max 8/Packages/
